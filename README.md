@@ -1,5 +1,5 @@
 # axios_issue
-Axios issue see the readme. 
+
 Been away from JS for a minute or two working in python and now I want to try to accomplish some of the same tasks I have been working on in python, with JS. I can't get past the stupidest thing! With Axios installed as a dependency,
 
   "dependencies": {
